@@ -14,7 +14,7 @@ function ErrorMessage() {
       </div>
       <p className="text-white/80 mb-6 leading-relaxed">Message</p>
 
-      {/* Условный рендеринг */}
+      {/* Условный рендер */}
       <button className="flex items-center space-x-3 bg-white/10 hover:bg-white/20 border border-white/20 rounded-2xl px-6 py-3 text-white transition-all duration-300 hover:scale-105 hover:shadow-lg">
         <RefreshCw className="w-5 h-5" />
         <span className="font-medium">Попробуйте снова</span>
